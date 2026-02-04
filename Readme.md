@@ -1,4 +1,5 @@
-To access H2 database http://localhost:8080/h2-ui
+To aopen my old account plze 2023
+ccess H2 database http://localhost:8080/h2-ui
 
 SELECT * FROM TBL_SHOPPING_LIST_ITEMS
 
